@@ -1,0 +1,287 @@
+Format,Metric,Year,Revenue_Value,Total_Revenue_Year_Billions
+CD,Value,2000,13214.5,14.3
+CD,Value,2001,12909.4,13.7
+CD,Value,2002,12044.1,12.6
+CD,Value,2003,11232.9,11.9
+CD,Value,2004,11446.5,12.3
+CD,Value,2005,10520.2,12.3
+CD,Value,2006,9372.6,11.8
+CD,Value,2007,7452.3,10.7
+CD,Value,2008,5471.3,8.8
+CD,Value,2009,4318.8,7.8
+CD,Value,2010,3389.4,7.0
+CD,Value,2011,3100.7,7.1
+CD,Value,2012,2485.614699086,7.0
+CD,Value,2013,2140.917718167,7.0
+CD,Value,2014,1776.249323795,6.7
+CD,Value,2015,1444.9931935289999,6.7
+CD,Value,2016,1130.764650638,7.6
+CD,Value,2017,1057.323090205,8.8
+CD,Value,2018,698.386637244,9.8
+CD,Value,2019,614.509779894,11.1
+CD Single,Value,2000,142.7,14.3
+CD Single,Value,2001,79.4,13.7
+CD Single,Value,2002,19.6,12.6
+CD Single,Value,2003,36.0,11.9
+CD Single,Value,2004,15.0,12.3
+CD Single,Value,2005,10.9,12.3
+CD Single,Value,2006,7.7,11.8
+CD Single,Value,2007,12.2,10.7
+CD Single,Value,2008,3.5,8.8
+CD Single,Value,2009,3.1,7.8
+CD Single,Value,2010,2.9,7.0
+CD Single,Value,2011,3.5,7.1
+CD Single,Value,2012,3.225092945,7.0
+CD Single,Value,2013,2.445737226,7.0
+CD Single,Value,2014,3.616015547,6.7
+CD Single,Value,2015,1.19694661,6.7
+CD Single,Value,2016,0.263199082,7.6
+CD Single,Value,2017,1.478694184,8.8
+CD Single,Value,2018,0.15516984,9.8
+CD Single,Value,2019,0.18167887800000002,11.1
+Cassette,Value,2000,626.0,14.3
+Cassette,Value,2001,363.4,13.7
+Cassette,Value,2002,209.8,12.6
+Cassette,Value,2003,108.1,11.9
+Cassette,Value,2004,23.7,12.3
+Cassette,Value,2005,13.1,12.3
+Cassette,Value,2006,3.7,11.8
+Cassette,Value,2007,3.0,10.7
+Cassette,Value,2008,0.9,8.8
+Cassette,Value,2009,0.0,7.8
+Cassette Single,Value,2000,4.6,14.3
+DVD Audio,Value,2001,6.0,13.7
+DVD Audio,Value,2002,8.5,12.6
+DVD Audio,Value,2003,8.0,11.9
+DVD Audio,Value,2004,6.5,12.3
+DVD Audio,Value,2005,11.2,12.3
+DVD Audio,Value,2006,2.4,11.8
+DVD Audio,Value,2007,2.8,10.7
+DVD Audio,Value,2008,1.2,8.8
+DVD Audio,Value,2009,1.6,7.8
+DVD Audio,Value,2010,0.9,7.0
+DVD Audio,Value,2011,0.3,7.1
+DVD Audio,Value,2012,0.183106992,7.0
+DVD Audio,Value,2014,2.139460944,6.7
+DVD Audio,Value,2015,5.416232673,6.7
+DVD Audio,Value,2016,2.83553587,7.6
+DVD Audio,Value,2017,2.606840648,8.8
+DVD Audio,Value,2018,3.317383752,9.8
+DVD Audio,Value,2019,1.067303184,11.1
+Download Album,Value,2004,45.5,12.3
+Download Album,Value,2005,135.7,12.3
+Download Album,Value,2006,275.9,11.8
+Download Album,Value,2007,497.4,10.7
+Download Album,Value,2008,635.3,8.8
+Download Album,Value,2009,744.3,7.8
+Download Album,Value,2010,872.4,7.0
+Download Album,Value,2011,1070.8,7.1
+Download Album,Value,2012,1204.822242537,7.0
+Download Album,Value,2013,1232.1397156169999,7.0
+Download Album,Value,2014,1117.900008828,6.7
+Download Album,Value,2015,1064.4336066639999,6.7
+Download Album,Value,2016,868.59426835,7.6
+Download Album,Value,2017,668.500705901,8.8
+Download Album,Value,2018,499.65083242,9.8
+Download Album,Value,2019,394.53300615800003,11.1
+Download Music Video,Value,2005,3.7,12.3
+Download Music Video,Value,2006,19.7,11.8
+Download Music Video,Value,2007,28.2,10.7
+Download Music Video,Value,2008,41.3,8.8
+Download Music Video,Value,2009,40.9,7.8
+Download Music Video,Value,2010,36.6,7.0
+Download Music Video,Value,2011,32.4,7.1
+Download Music Video,Value,2012,20.842242000000002,7.0
+Download Music Video,Value,2013,16.740803,7.0
+Download Music Video,Value,2014,13.577058,6.7
+Download Music Video,Value,2015,6.4144190000000005,6.7
+Download Music Video,Value,2016,4.26940012,7.6
+Download Music Video,Value,2017,2.785780489,8.8
+Download Music Video,Value,2018,2.2208106,9.8
+Download Music Video,Value,2019,1.8589104019999998,11.1
+Download Single,Value,2004,138.0,12.3
+Download Single,Value,2005,363.3,12.3
+Download Single,Value,2006,580.6,11.8
+Download Single,Value,2007,811.0,10.7
+Download Single,Value,2008,1032.2,8.8
+Download Single,Value,2009,1172.0,7.8
+Download Single,Value,2010,1336.4,7.0
+Download Single,Value,2011,1522.4,7.1
+Download Single,Value,2012,1644.570645308,7.0
+Download Single,Value,2013,1573.420534445,7.0
+Download Single,Value,2014,1355.331251323,6.7
+Download Single,Value,2015,1185.237594639,6.7
+Download Single,Value,2016,900.1814810660001,7.6
+Download Single,Value,2017,678.5248883219999,8.8
+Download Single,Value,2018,490.43048865800006,9.8
+Download Single,Value,2019,414.804250982,11.1
+Kiosk,Value,2005,1.0,12.3
+Kiosk,Value,2006,1.9,11.8
+Kiosk,Value,2007,2.6,10.7
+Kiosk,Value,2008,2.6,8.8
+Kiosk,Value,2009,6.3,7.8
+Kiosk,Value,2010,6.4,7.0
+Kiosk,Value,2011,2.7,7.1
+Kiosk,Value,2012,3.654065,7.0
+Kiosk,Value,2013,6.183604,7.0
+Kiosk,Value,2014,2.582636,6.7
+Kiosk,Value,2015,3.7004550000000003,6.7
+Kiosk,Value,2016,2.9439168010000003,7.6
+Kiosk,Value,2017,2.25474315,8.8
+Kiosk,Value,2018,1.965045799,9.8
+Kiosk,Value,2019,1.586470587,11.1
+LP/EP,Value,2000,27.7,14.3
+LP/EP,Value,2001,27.4,13.7
+LP/EP,Value,2002,20.5,12.6
+LP/EP,Value,2003,21.7,11.9
+LP/EP,Value,2004,19.3,12.3
+LP/EP,Value,2005,14.2,12.3
+LP/EP,Value,2006,15.7,11.8
+LP/EP,Value,2007,22.9,10.7
+LP/EP,Value,2008,56.7,8.8
+LP/EP,Value,2009,63.8,7.8
+LP/EP,Value,2010,88.9,7.0
+LP/EP,Value,2011,119.4,7.1
+LP/EP,Value,2012,160.723058291,7.0
+LP/EP,Value,2013,210.73905103400003,7.0
+LP/EP,Value,2014,243.84684834,6.7
+LP/EP,Value,2015,333.379793112,6.7
+LP/EP,Value,2016,355.430890954,7.6
+LP/EP,Value,2017,388.511108168,8.8
+LP/EP,Value,2018,419.22394696099997,9.8
+LP/EP,Value,2019,497.588920842,11.1
+Limited Tier Paid Subscription,Value,2016,263.363685193,7.6
+Limited Tier Paid Subscription,Value,2017,591.601097499,8.8
+Limited Tier Paid Subscription,Value,2018,747.054906158,9.8
+Limited Tier Paid Subscription,Value,2019,829.498739675,11.1
+Music Video (Physical),Value,2000,281.9,14.3
+Music Video (Physical),Value,2001,329.2,13.7
+Music Video (Physical),Value,2002,288.4,12.6
+Music Video (Physical),Value,2003,399.9,11.9
+Music Video (Physical),Value,2004,607.2,12.3
+Music Video (Physical),Value,2005,602.2,12.3
+Music Video (Physical),Value,2006,451.1,11.8
+Music Video (Physical),Value,2007,484.9,10.7
+Music Video (Physical),Value,2008,227.3,8.8
+Music Video (Physical),Value,2009,209.6,7.8
+Music Video (Physical),Value,2010,177.6,7.0
+Music Video (Physical),Value,2011,151.0,7.1
+Music Video (Physical),Value,2012,116.61365460200001,7.0
+Music Video (Physical),Value,2013,106.283137789,7.0
+Music Video (Physical),Value,2014,89.705579875,6.7
+Music Video (Physical),Value,2015,70.434363958,6.7
+Music Video (Physical),Value,2016,56.922902813,7.6
+Music Video (Physical),Value,2017,38.619446998,8.8
+Music Video (Physical),Value,2018,27.561260298,9.8
+Music Video (Physical),Value,2019,27.705246783000003,11.1
+On-Demand Streaming (Ad-Supported),Value,2011,113.8,7.1
+On-Demand Streaming (Ad-Supported),Value,2012,170.935408437,7.0
+On-Demand Streaming (Ad-Supported),Value,2013,220.873544491,7.0
+On-Demand Streaming (Ad-Supported),Value,2014,283.793409371,6.7
+On-Demand Streaming (Ad-Supported),Value,2015,371.990396399,6.7
+On-Demand Streaming (Ad-Supported),Value,2016,489.37760758900004,7.6
+On-Demand Streaming (Ad-Supported),Value,2017,658.6064926,8.8
+On-Demand Streaming (Ad-Supported),Value,2018,759.532368153,9.8
+On-Demand Streaming (Ad-Supported),Value,2019,908.149330523,11.1
+Other Ad-Supported Streaming,Value,2016,81.260865617,7.6
+Other Ad-Supported Streaming,Value,2017,261.786858952,8.8
+Other Ad-Supported Streaming,Value,2018,251.411918813,9.8
+Other Ad-Supported Streaming,Value,2019,251.064710118,11.1
+Other Digital,Value,2016,17.141662870999998,7.6
+Other Digital,Value,2017,16.885109868,8.8
+Other Digital,Value,2018,19.839574865,9.8
+Other Digital,Value,2019,21.517175006,11.1
+Paid Subscription,Value,2005,149.2,12.3
+Paid Subscription,Value,2006,206.2,11.8
+Paid Subscription,Value,2007,234.0,10.7
+Paid Subscription,Value,2008,221.4,8.8
+Paid Subscription,Value,2009,206.2,7.8
+Paid Subscription,Value,2010,212.4,7.0
+Paid Subscription,Value,2011,247.8,7.1
+Paid Subscription,Value,2012,399.88253109,7.0
+Paid Subscription,Value,2013,643.324288756,7.0
+Paid Subscription,Value,2014,770.270559124,6.7
+Paid Subscription,Value,2015,1156.7085135510001,6.7
+Paid Subscription,Value,2016,2244.154254171,7.6
+Paid Subscription,Value,2017,3500.549812779,8.8
+Paid Subscription,Value,2018,4655.968522014,9.8
+Paid Subscription,Value,2019,5934.397625188,11.1
+Ringtones & Ringbacks,Value,2005,421.6,12.3
+Ringtones & Ringbacks,Value,2006,773.8,11.8
+Ringtones & Ringbacks,Value,2007,1055.8,10.7
+Ringtones & Ringbacks,Value,2008,977.1,8.8
+Ringtones & Ringbacks,Value,2009,702.8,7.8
+Ringtones & Ringbacks,Value,2010,448.0,7.0
+Ringtones & Ringbacks,Value,2011,276.2,7.1
+Ringtones & Ringbacks,Value,2012,145.992935111,7.0
+Ringtones & Ringbacks,Value,2013,97.99961233299999,7.0
+Ringtones & Ringbacks,Value,2014,66.31137066699999,6.7
+Ringtones & Ringbacks,Value,2015,54.582024222,6.7
+Ringtones & Ringbacks,Value,2016,56.325299125,7.6
+Ringtones & Ringbacks,Value,2017,35.513735653000005,8.8
+Ringtones & Ringbacks,Value,2018,24.957859799,9.8
+Ringtones & Ringbacks,Value,2019,21.426736902000002,11.1
+SACD,Value,2003,26.3,11.9
+SACD,Value,2004,16.6,12.3
+SACD,Value,2005,10.0,12.3
+SACD,Value,2006,5.5,11.8
+SACD,Value,2007,3.6,10.7
+SACD,Value,2008,3.1,8.8
+SACD,Value,2009,2.4,7.8
+SACD,Value,2010,1.7,7.0
+SACD,Value,2011,1.5,7.1
+SACD,Value,2012,1.3425,7.0
+SACD,Value,2013,0.9783825999999999,7.0
+SACD,Value,2014,0.76344539,6.7
+SACD,Value,2015,1.04346656,6.7
+SACD,Value,2016,1.20686148,7.6
+SACD,Value,2017,0.85057856,8.8
+SACD,Value,2018,0.85969971,9.8
+SACD,Value,2019,0.43330229200000003,11.1
+SoundExchange Distributions,Value,2004,6.9,12.3
+SoundExchange Distributions,Value,2005,20.4,12.3
+SoundExchange Distributions,Value,2006,32.8,11.8
+SoundExchange Distributions,Value,2007,36.2,10.7
+SoundExchange Distributions,Value,2008,100.0,8.8
+SoundExchange Distributions,Value,2009,155.5,7.8
+SoundExchange Distributions,Value,2010,249.2,7.0
+SoundExchange Distributions,Value,2011,292.0,7.1
+SoundExchange Distributions,Value,2012,462.0,7.0
+SoundExchange Distributions,Value,2013,590.4,7.0
+SoundExchange Distributions,Value,2014,773.4,6.7
+SoundExchange Distributions,Value,2015,802.6,6.7
+SoundExchange Distributions,Value,2016,883.9,7.6
+SoundExchange Distributions,Value,2017,652.0,8.8
+SoundExchange Distributions,Value,2018,952.8,9.8
+SoundExchange Distributions,Value,2019,908.2,11.1
+Synchronization,Value,2009,201.2,7.8
+Synchronization,Value,2010,188.7,7.0
+Synchronization,Value,2011,196.5,7.1
+Synchronization,Value,2012,190.597753,7.0
+Synchronization,Value,2013,189.67943400000001,7.0
+Synchronization,Value,2014,189.713099,6.7
+Synchronization,Value,2015,202.934888,6.7
+Synchronization,Value,2016,214.83897654,7.6
+Synchronization,Value,2017,232.08652289900002,8.8
+Synchronization,Value,2018,285.51349134,9.8
+Synchronization,Value,2019,276.262360199,11.1
+Vinyl Single,Value,2000,26.3,14.3
+Vinyl Single,Value,2001,31.4,13.7
+Vinyl Single,Value,2002,24.9,12.6
+Vinyl Single,Value,2003,21.5,11.9
+Vinyl Single,Value,2004,19.9,12.3
+Vinyl Single,Value,2005,13.2,12.3
+Vinyl Single,Value,2006,9.9,11.8
+Vinyl Single,Value,2007,4.0,10.7
+Vinyl Single,Value,2008,2.9,8.8
+Vinyl Single,Value,2009,2.5,7.8
+Vinyl Single,Value,2010,2.3,7.0
+Vinyl Single,Value,2011,4.6,7.1
+Vinyl Single,Value,2012,4.743055893,7.0
+Vinyl Single,Value,2013,2.978937179,7.0
+Vinyl Single,Value,2014,5.49935429,6.7
+Vinyl Single,Value,2015,5.7529540820000005,6.7
+Vinyl Single,Value,2016,4.880679689,7.6
+Vinyl Single,Value,2017,6.07838535,8.8
+Vinyl Single,Value,2018,5.2903370789999995,9.8
+Vinyl Single,Value,2019,6.795945687000001,11.1
